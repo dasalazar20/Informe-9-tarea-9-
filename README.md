@@ -1,13 +1,35 @@
 # Informe-9-tarea-9-
 # 1. OBJETIVOS 
  
+Analizar los circuitos RLC/Raronancia y los filtros pasivos mediante la redaccion de los capitulos 17 y 28 del libro "Principios de circuitos Electricos" de Floy para adquirir la capasidad  
+ 
 1.1 Objetivo General
 
-Analizar los circuitos RC y RL mediante la redacion y resolucion de ejercicios del libro "5 Principios de circuitos electricos" de floy para lograr resolver problemas en serie/paralalo y mixtos de circuitos RC y RL
 
 1.2 Objetivos Espesificos
 
-•	
+•	 Determinar la impedancia de un circuito RLC en
+
+• Analizar un circuito en cuanto a resonancia en serie
+
+• Determinar la impedancia de un circuito RLC en
+paralelo
+
+• Analizar un circuito en cuanto a resonancia en
+paralelo 
+
+• Determinar el ancho de banda de circuitos
+resonantes
+
+• Analizar la operación de filtros pasabajas RC y RL
+
+• Analizar la operación de filtros pasaaltas RC y RL
+
+• Analizar la operación de filtros pasabanda
+
+•Analizar la operación de filtros rechazabanda
+
+serie•	
 
 # 2. MARCO TEORICO
   
