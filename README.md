@@ -1,10 +1,9 @@
 # Informe-9-tarea-9-
 # 1. OBJETIVOS 
  
-Analizar los circuitos RLC/Raronancia y los filtros pasivos mediante la redaccion de los capitulos 17 y 28 del libro "Principios de circuitos Electricos" de Floy para adquirir la capasidad  
- 
-1.1 Objetivo General
+Analizar los circuitos RLC/Resonancia y los filtros pasivos mediante la redaccion de los capitulos 17 y 28 del libro "Principios de circuitos Electricos" de Floy para adquirir la capasidad adquirir la capacidad y destreza en el desarrollo de problemas que se pueden aparecer en los circuitos RLC/Resonancia y compreder sobre los diferentes filtros pasivos.
 
+1.1 Objetivo General
 
 1.2 Objetivos Espesificos
 
