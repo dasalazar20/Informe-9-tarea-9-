@@ -111,11 +111,11 @@ https://www.youtube.com/watch?v=4sMM9H_BA6Q
 
 CAPITULO 17
 
-Al momento de la redacción y resolución de los ejercicios del capítulo 17 de “Principios de Circuitos Eléctricos” de Floyd se logro 
+Al momento de la redacción y resolución de los ejercicios del capítulo 17 de “Principios de Circuitos Eléctricos” de Floyd se logro determinar el valor de la impedancia en un circuito RLC y se analizo los circuitos en cuanto resonacia en serie como en paralaleo y por ultimo se determino el ancho de banda de circuitos resonantes.
 
 CAPITULO 18
 
-Al realizar la redacción y resolución de los ejercicios del capítulo 18 de “Principios de Circuitos Eléctricos” de Floyd  
+Al realizar la redacción y resolución de los ejercicios del capítulo 18 de “Principios de Circuitos Eléctricos” de Floyd  se analizo la operacion de filtos pasabajas y pasaaltas tanto como en RC/RL y rechazabanda.
 
 
 # 6. BIBLIOGRAFIA
