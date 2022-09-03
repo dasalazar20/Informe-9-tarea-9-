@@ -69,44 +69,39 @@ Y RESONANCIA
 # Capítulo 17 (CIRCUITOS RLC
 Y RESONANCIA) y Capitulo 18 (FILTROS PASIVOS)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_1.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_2.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_3.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_4.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_5.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_6.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_7.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_8.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_9.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_10.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_11.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_12.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_13.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_14.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_15.jpg)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_16.jpg)
 
-![]()
-
-![]()
-
-![]()
-
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Ejercicio/ejercicios%20de%20circuitos%209_17.jpg)
 
 # 4. VIDEO
 
