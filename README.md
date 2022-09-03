@@ -35,35 +35,31 @@ serie•
    2.1 CIRCUITOS RLC
 Y RESONANCIA
    
- ![]()
+ ![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/Capitulo%2017/1.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/Capitulo%2017/2.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/Capitulo%2017/3.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/Capitulo%2017/4.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/Capitulo%2017/5.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/Capitulo%2017/6.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/Capitulo%2017/7.png)
 
-![]()
-
-![]()
-
-
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/Capitulo%2017/8.png)
 
   2.2 FILTROS PASIVOS
   
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/capitulo%2018/1.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/capitulo%2018/2.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/capitulo%2018/3.png)
 
-![]()
+![](https://github.com/dasalazar20/Informe-9-tarea-9-/blob/main/Imagenes/capitulo%2018/4.png)
 
     
 # 3.Explicación y Resolución de Ejercicios 
@@ -121,6 +117,7 @@ https://www.youtube.com/watch?v=4sMM9H_BA6Q
 CAPITULO 17
 
 Al momento de la redacción y resolución de los ejercicios del capítulo 17 de “Principios de Circuitos Eléctricos” de Floyd se logro 
+
 CAPITULO 18
 
 Al realizar la redacción y resolución de los ejercicios del capítulo 18 de “Principios de Circuitos Eléctricos” de Floyd  
